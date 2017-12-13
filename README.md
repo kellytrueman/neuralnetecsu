@@ -5,4 +5,4 @@ Josh - Dataset Classification in WEKA
 
 Kelly - Natural Language Processing through MLPack
 
-Sam - NEAT algorithm implementation using Python
+Sam - Temperature Anomaly Prediction in RStudio
