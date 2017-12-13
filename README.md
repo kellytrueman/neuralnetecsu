@@ -3,6 +3,6 @@ This repository is used for our Neural Network Predictions project where we will
 
 Josh - Dataset Classification in WEKA
 
-Kelly - Natural Language Processing through MLPack
+Kelly - Natural Language Processing in C++
 
 Sam - Temperature Anomaly Prediction in RStudio
