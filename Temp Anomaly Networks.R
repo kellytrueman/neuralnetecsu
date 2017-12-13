@@ -1,6 +1,6 @@
-# https://datahub.io/core/global-temp
+# data from https://datahub.io/core/global-temp
 
-apply(monthly,2,function(x) sum(is.na(x)))
+apply(monthly,2,function(x) sum(is.na(x))) #check for missing values
 set.seed(3300)
 
 #splitting data into training and testing
